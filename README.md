@@ -45,8 +45,8 @@ I am a passionate Full-Stack Blockchain Developer with a strong focus on buildin
 - Contributed to open-source blockchain projects and Ethereum Improvement Proposals (EIPs).
 
 ### 🌐 Let's Connect!
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/anushka-yadav-044714238/)
-- **GitHub**: [@YourGitHubUsername](https://github.com/64anushka)
+- **LinkedIn**: https://www.linkedin.com/in/anushka-yadav-044714238/
+- **GitHub**: https://github.com/64anushka
 - **Email**: 64anushka@gmail.com
 
 ---
