@@ -3,7 +3,7 @@
 🚀 Full-Stack Blockchain Developer | Smart Contract Enthusiast | Web3 Innovator
 
 ---
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=64anushka&label=Profile%20views&color=0e75b6&style=flat" alt="64anushka" /> </p>
 ---
 ### 🛠️ About Me
 I am a passionate Full-Stack Blockchain Developer with a strong focus on building decentralized applications (dApps) and smart contracts. My goal is to leverage blockchain technology to create secure, transparent, and scalable solutions that drive innovation in the Web3 space.
