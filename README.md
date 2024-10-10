@@ -40,7 +40,7 @@ I am a passionate Full-Stack Blockchain Developer with a strong focus on buildin
 - **NFT Market Place**: Forked rariable contracts and built a wrapper contract based on requirements.
    
 ### 📚 Recent Achievements
-- Published EIP-7734 focusing on Decentralized Identity Verification.
+- Published PR for ERC-7734 focusing on Decentralized Identity Verification in ERC's repo.
 - Successfully deployed and integrated a series of smart contracts for play-to-earn platforms.
 - Contributed to open-source blockchain projects and Ethereum Improvement Proposals (EIPs).
 
